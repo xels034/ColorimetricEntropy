@@ -1,0 +1,5 @@
+syntax: glob
+bin/**
+lwjgl-3.0.0a.zip
+colorimetric_entropy_from_exe.jar
+colorimetric_entropy_source_from_Procyon.zip
